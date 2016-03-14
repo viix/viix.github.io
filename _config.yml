@@ -3,14 +3,14 @@
 # # # # # # # #
 
 # Basic
-name:               "Kiko"
-description:        "a clean, lightweight and minimalistic blog theme for jekyll"
+name:               "Viix"
+description:        "Viix‘s blog"
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
-url:                "//kiko.gfjaru.com"
-author:             "gfjaru"
-twitter:
-  username:         "gfjaru"
+# url:                "//kiko.gfjaru.com"
+# author:             "viix"
+# twitter:
+#   username:         "gfjaru"
 #facebook:
 #  app_id:           1234
 #    publisher:      1234
@@ -25,10 +25,10 @@ markdown:           kramdown
 
 # Navigation
 nav:
-  - name:           "About"
-    href:           "//kiko.gfjaru.com/about"
-  - name:           "Download"
-    href:           "//github.com/gfjaru/Kiko/releases"
+  - name:           "about"
+    href:           "/about"
+  - name:           "github"
+    href:           "//github.com/viix"
 
 # Sass
 sass:
