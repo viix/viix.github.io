@@ -3,8 +3,8 @@
 # # # # # # # #
 
 # Basic
-name:               "Viix"
-description:        "Viix‘s blog"
+name:               "viix"
+description:        "viix‘s blog"
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
 # url:                "//kiko.gfjaru.com"
